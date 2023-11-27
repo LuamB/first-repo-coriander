@@ -28,3 +28,7 @@ Today we are learninh GitHub and Markdown. In the afternoon we will do the compu
 
 ![Cat in moon light](catMoon.png)
 
+<h3>Code</h3>
+
+we can add `line` of code `name=Luam`
+
