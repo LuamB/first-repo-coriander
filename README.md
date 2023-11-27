@@ -3,4 +3,8 @@ Today we are learninh GitHub and Markdown. In the afternoon we will do the compu
 
 ## Subtitle placeholder
 
-### Less important title
+### Ordered list
+
+1. First item
+2. Second item
+3. Third item
