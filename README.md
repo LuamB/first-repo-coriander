@@ -1,5 +1,5 @@
 <h1> Learning GitHub and Markdown. </h1>
-Today we are learninh GitHub and Markdown. In the afternoon we will do the computer setup
+Today we are learning GitHub and Markdown. In the afternoon we will do the computer setup
 
 <h2> Subtitle placeholder </h2>
 
@@ -30,5 +30,13 @@ Today we are learninh GitHub and Markdown. In the afternoon we will do the compu
 
 <h3>Code</h3>
 
-we can add `line` of code `name=Luam`
+We can add `line` of code `name=Luam`
+
+
+<h3>Block code</h3>`
+
+```js
+let cohort = "Coriander";
+let students = 17;
+```
 
