@@ -22,4 +22,9 @@ Today we are learninh GitHub and Markdown. In the afternoon we will do the compu
 
 <h3>Image</h3>
 
+![Cat in moon light](https://m.media-amazon.com/images/I/618tzaB+TWL._AC_SL1500_.jpg)
+
+<h3>My image</h3>
+
 ![Cat in moon light](catMoon.png)
+
