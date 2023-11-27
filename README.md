@@ -12,10 +12,14 @@ Today we are learninh GitHub and Markdown. In the afternoon we will do the compu
 
 <h3>Unordered list</h3>
 
-- Some item
-- Another item
-- Yet another item
+- *Some item*
+- **Another item**
+- ***Yet another item***
 
 <h3>Markdown Guide</h3>
 
 [Cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+<h3>Image</h3>
+
+![Cat in moon light](catMoon.png)
